@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Irregular Drinking Water Supply in Rural Communities",
+    "description": "Residents of several rural areas face irregular and unreliable drinking water supply. Some villages receive water only once every few days, while others depend on distant hand pumps or tankers. During summer, the problem becomes more severe due to falling groundwater levels and increased demand.\n\nCitizens currently have no centralized way to report water-supply issues, track complaints, or identify areas requiring urgent intervention. A technology-based solution could help map affected locations, monitor water availability, identify recurring problems, and coordinate solutions with local communities.",
+    "domain": "Water & Sanitation",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "district": "Gautam Buddha Nagar",
+    "city": "Greater Noida",
+    "pincode": "201308",
+    "latitude": 28.47675276656254,
+    "longitude": 77.50362853889638,
+    "locationAccuracy": 89,
+    "submittedBy": "Pranav Singh",
+    "submittedByEmail": "pranavsingh1806@gmail.com",
+    "submittedByRole": "citizen",
+    "id": "c-1788460810620-1692ae",
+    "reference": "IN-2026-65099",
+    "status": "resolved",
+    "submittedAt": "2026-09-03T18:40:10.620Z",
+    "supporters": 2,
+    "duplicatesMerged": 0,
+    "timeline": [
+      {
+        "id": "t1",
+        "status": "pending",
+        "label": "Submitted — pending Admin approval",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "Queued for the sole Samadhan Admin."
+      },
+      {
+        "id": "t-1788460831592-093df9",
+        "label": "Approved by Admin",
+        "actor": "Samadhan Admin",
+        "date": "04 Sept 2026",
+        "note": "The sole Samadhan Admin approved this submission.",
+        "status": "review"
+      },
+      {
+        "id": "t-1788460853745-bcfc93",
+        "label": "University team application submitted",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "NIET Innovation Team from NIET is waiting for Admin approval.",
+        "status": "review"
+      },
+      {
+        "id": "t-1788460864953-1b6b62",
+        "label": "Approved by Admin",
+        "actor": "Samadhan Admin",
+        "date": "04 Sept 2026",
+        "note": "The sole Samadhan Admin approved this request.",
+        "status": "assigned"
+      },
+      {
+        "id": "t-1788460940829-8f54c8",
+        "label": "University solution submitted",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "Solution is waiting for Admin review.",
+        "status": "assigned"
+      },
+      {
+        "id": "t-1788460948155-f50fd2",
+        "label": "Approved by Admin",
+        "actor": "Samadhan Admin",
+        "date": "04 Sept 2026",
+        "note": "The sole Samadhan Admin approved this request.",
+        "status": "assigned"
+      },
+      {
+        "id": "t-1788460971876-f30049",
+        "label": "Industry collaboration proposal received",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "TATA proposed a collaboration for the university solution.",
+        "status": "assigned"
+      },
+      {
+        "id": "t-1788460989341-e99f76",
+        "label": "University progress update",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "working",
+        "status": "progress"
+      },
+      {
+        "id": "t-1788460992462-10ad5a",
+        "label": "University accepted industry collaboration",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "TATA was accepted.",
+        "status": "collaboration"
+      },
+      {
+        "id": "t-1788461009957-0a5432",
+        "label": "Community support added",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "This report now has 2 supporters.",
+        "status": "collaboration"
+      },
+      {
+        "id": "t-1788461048392-4bc269",
+        "label": "Industry submitted completion proof",
+        "actor": "Pranav Singh",
+        "date": "04 Sept 2026",
+        "note": "Work is complete and waiting for final Admin verification.",
+        "status": "collaboration"
+      },
+      {
+        "id": "t-1788461079487-565b72",
+        "label": "Approved by Admin",
+        "actor": "Samadhan Admin",
+        "date": "04 Sept 2026",
+        "note": "The sole Samadhan Admin approved this request.",
+        "status": "resolved"
+      }
+    ],
+    "teamApplication": {
+      "teamName": "NIET Innovation Team",
+      "university": "NIET",
+      "contactName": "Pranav Singh",
+      "contactEmail": "pranavsingh@niet.ac.in",
+      "appliedAt": "2026-09-03T18:40:53.745Z",
+      "status": "approved"
+    },
+    "assignedTo": "NIET",
+    "assignedAt": "2026-09-03T18:41:04.953Z",
+    "solution": {
+      "title": "JalWatch — IoT Water Monitoring Network",
+      "description": "Deploy low-cost water-level sensors in community tanks and connect them to a cloud dashboard. The system will detect abnormal drops in water levels, identify pump failures, and automatically alert the responsible team.",
+      "status": "approved",
+      "submittedAt": "2026-09-03T18:42:20.829Z",
+      "submittedBy": "Pranav Singh",
+      "submittedByEmail": "pranavsingh@niet.ac.in",
+      "reviewedAt": "2026-09-03T18:42:28.155Z",
+      "reviewedBy": "admin@samadhan.local"
+    },
+    "collaborationProposals": [
+      {
+        "id": "p-1788460971876-6e632b",
+        "company": "TATA",
+        "contactName": "Pranav Singh",
+        "contactEmail": "pranavsingh18@gmail.com",
+        "idea": "We propose integrating solar-powered IoT sensors with the JalWatch platform. Our team can provide sensor hardware, cloud integration expertise, and technical mentorship for the pilot deployment.",
+        "status": "accepted",
+        "createdAt": "2026-09-03T18:42:51.876Z",
+        "respondedAt": "2026-09-03T18:43:12.462Z"
+      }
+    ],
+    "completionSubmission": {
+      "status": "approved",
+      "submittedAt": "2026-09-03T18:44:08.392Z",
+      "submittedBy": "Pranav Singh",
+      "submittedByEmail": "pranavsingh18@gmail.com",
+      "summary": "JalWatch pilot successfully deployed across 5 village water tanks. Sensors are transmitting water-level data to the dashboard and automated low-level alerts are operational.",
+      "proofs": [
+        "https://example.com/pilot-report"
+      ],
+      "reviewedAt": "2026-09-03T18:44:39.487Z",
+      "reviewedBy": "admin@samadhan.local",
+      "reviewNote": "Final completion verified by the sole Samadhan Admin."
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "u-1788460748834-3b8b31",
+    "name": "Pranav Singh",
+    "email": "pranavsingh1806@gmail.com",
+    "role": "citizen",
+    "state": "Uttar Pradesh",
+    "createdAt": "2026-09-03T18:39:08.834Z",
+    "password": {
+      "salt": "24e35c94b9e9be0b8f1c8d54bf88c049",
+      "hash": "6715df63c8ea652a2493b9b9d86a4ee3bb8e16bcffdded3f495374eab7e642a07deb8bf9c0d0bb508d10710e394e0f682064cf2675fb3a74dc0ebfceb46173f5"
+    }
+  },
+  {
+    "id": "u-1788460846268-cb2185",
+    "name": "Pranav Singh",
+    "email": "pranavsingh@niet.ac.in",
+    "role": "university",
+    "organization": "NIET",
+    "state": "Uttar Pradesh",
+    "createdAt": "2026-09-03T18:40:46.268Z",
+    "password": {
+      "salt": "13fa3e525fb0661d87e3756bc42fc88a",
+      "hash": "cacee103f650dea018051bacce256432a64607893ec6b9ccd30d72241b48874640ea3eff19c8f78e4e283919589ab75415f5f1c335a0b0e248af4123e718fba1"
+    }
+  },
+  {
+    "id": "u-1788460881039-ed73db",
+    "name": "Pranav Singh",
+    "email": "pranavsingh18@gmail.com",
+    "role": "industry",
+    "organization": "TATA",
+    "state": "Uttar Pradesh",
+    "createdAt": "2026-09-03T18:41:21.039Z",
+    "password": {
+      "salt": "a352a61cd5136df728dcb4d8c81e282f",
+      "hash": "45ef522056aa627fc52bc3364022b3fa97c54c1dce4b6920ec70a527a25bb114b3f7a582aa1425da5bbcdc90c63d5294bb7bd6c87481bdf274aa6506c896d922"
+    }
+  }
+]

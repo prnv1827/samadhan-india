@@ -1,0 +1,61 @@
+[
+  {
+    "id": "r-1788461048394-a4b8c1",
+    "type": "completion",
+    "status": "approved",
+    "title": "Completion proof: Irregular Drinking Water Supply in Rural Communities",
+    "message": "TATA says the collaborative work is complete and submitted proof for final Admin verification.",
+    "requesterName": "Pranav Singh",
+    "requesterEmail": "pranavsingh18@gmail.com",
+    "requesterRole": "industry",
+    "organization": "TATA",
+    "challengeId": "c-1788460810620-1692ae",
+    "createdAt": "2026-09-03T18:44:08.394Z",
+    "reviewedAt": "2026-09-03T18:44:39.487Z",
+    "reviewedBy": "admin@samadhan.local"
+  },
+  {
+    "id": "r-1788460940830-b9ab47",
+    "type": "solution_submission",
+    "status": "approved",
+    "title": "Solution submission: JalWatch — IoT Water Monitoring Network",
+    "message": "NIET submitted a solution for “Irregular Drinking Water Supply in Rural Communities”.",
+    "requesterName": "Pranav Singh",
+    "requesterEmail": "pranavsingh@niet.ac.in",
+    "requesterRole": "university",
+    "organization": "NIET",
+    "challengeId": "c-1788460810620-1692ae",
+    "createdAt": "2026-09-03T18:42:20.830Z",
+    "reviewedAt": "2026-09-03T18:42:28.154Z",
+    "reviewedBy": "admin@samadhan.local"
+  },
+  {
+    "id": "r-1788460853746-e290d0",
+    "type": "team_application",
+    "status": "approved",
+    "title": "University team application: NIET Innovation Team",
+    "message": "Pranav Singh from NIET applied to work on “Irregular Drinking Water Supply in Rural Communities”.",
+    "requesterName": "Pranav Singh",
+    "requesterEmail": "pranavsingh@niet.ac.in",
+    "requesterRole": "university",
+    "organization": "NIET",
+    "challengeId": "c-1788460810620-1692ae",
+    "createdAt": "2026-09-03T18:40:53.746Z",
+    "reviewedAt": "2026-09-03T18:41:04.952Z",
+    "reviewedBy": "admin@samadhan.local"
+  },
+  {
+    "id": "r-1788460810628-96c98a",
+    "type": "challenge",
+    "status": "approved",
+    "title": "New challenge: Irregular Drinking Water Supply in Rural Communities",
+    "message": "Pranav Singh submitted a new challenge for Admin review.",
+    "requesterName": "Pranav Singh",
+    "requesterEmail": "pranavsingh1806@gmail.com",
+    "requesterRole": "citizen",
+    "challengeId": "c-1788460810620-1692ae",
+    "createdAt": "2026-09-03T18:40:10.628Z",
+    "reviewedAt": "2026-09-03T18:40:31.593Z",
+    "reviewedBy": "admin@samadhan.local"
+  }
+]
