@@ -10,8 +10,7 @@ npm start
 Open http://localhost:3000
 
 Admin login:
-- Email: admin@samadhan.local
-- Password: admin123
+HEHE, WONT TELL U GUYZZ !!
 
 ## Workflow
 
@@ -27,4 +26,3 @@ Admin login:
 10. Industry submits completion summary + proof links -> Pending Final Admin Verification.
 11. Admin verifies completion -> Problem becomes RESOLVED.
 
-All request and approval changes are protected by server-side role checks. Realtime updates use Server-Sent Events. Data is stored in `data/*.json` for local/demo deployment; use PostgreSQL/Supabase for durable production persistence on Render.
