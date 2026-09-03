@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: samadhan-india
-    env: node
-    buildCommand: npm install && npm run build
-    startCommand: npm start
-    autoDeploy: true
