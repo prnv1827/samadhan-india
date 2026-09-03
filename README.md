@@ -10,8 +10,7 @@ npm start
 Open http://localhost:3000
 
 Admin login:
-- Email: admin@samadhan.local
-- Password: admin123
+HEHEHEHE! WONT TELL U GUYZZ!
 
 ## Workflow
 
